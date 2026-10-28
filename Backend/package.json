@@ -1,0 +1,17 @@
+{
+  "name": "backend-portfolio",
+  "version": "1.0.0",
+  "description": "Backend para portfolio en Node.js y Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Mariano Epherra",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "mysql2": "^3.24.6"
+  }
+}
